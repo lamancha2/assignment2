@@ -1,0 +1,108 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Calibri, sans-serif;
+    text-align: center;
+    background-color: lavenderblush;
+    margin-right:80px;
+    margin-left: 80px;
+    padding:15px;
+
+
+}
+h1{
+    font-size: 50px;
+    color: gray;
+}
+p{
+    font-size: 25px;
+    color: gray;
+    margin-bottom: 10px;
+}
+.button{
+    background-color: gray;
+    padding: 10px 25px;
+    border: none;
+    margin: 10px;
+    color: whitesmoke;
+}
+header{
+    background: linear-gradient(45deg,teal,#e13fc4);
+    padding: 10px;
+
+}
+span img{
+    margin:50px;
+}
+header h1{
+    color: whitesmoke;
+}
+nav{
+    background-color: lightgrey;
+
+}
+nav a{
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 18px;
+    color: black;
+}
+.home-section{
+    padding: 100px;
+}
+.our-packages figure{
+    box-shadow: 0 0 10px black;
+    width: 350px;
+    display: inline-block;
+    padding: 10px;
+    overflow:hidden;
+    margin: 20px;
+}
+.our-packages figure img{
+    width: 100%;
+    overflow:hidden;
+}
+.our-packages figure figcaption{
+    font-size: 30px;
+    overflow:hidden;
+}
+.our-packages figure p{
+    font-size: 18px;
+    overflow:hidden;
+}
+figure{
+    width:400px;
+    overflow:hidden;
+
+}
+.main-footer{
+
+    color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background: linear-gradient(45deg,#e13fc4, teal);
+}
+div img {
+    width: 400px;
+    height: 600px;
+    margin: 2px;
+    padding-right: 0px;
+    border-radius: 5%;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 10px lightgrey;
+}
+span a{
+    width:300px;
+    height:700px;
+}
+.posts img{
+    width: 200px;
+    height: 300px;
+    margin: 2px;
+
+}
